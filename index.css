@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    background: none;
+    border: 1px solid #9AABD8;
+    color: #9AABD8
+
+}
+
+#scoreHome{
+    color:  #F94F6D;
+    background: #080001;
+    padding: 10px 20px 0px 20px;
+    font-size: 70px;
+    font-family: 'Segment7Standard';
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top:0;
+    border-radius: 5px; 
+}
+
+#scoreGuest{
+    color:  #F94F6D;
+    background: #080001;
+    padding: 10px 20px 0px 20px;
+    font-size: 70px;
+    font-family: 'Segment7Standard';
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top:0;
+    border-radius: 5px; 
+}
+
+.column{
+    color: #EEEEEE;
+
+}
